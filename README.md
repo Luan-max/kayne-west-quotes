@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Projeto de frases do Kanye West
 
 Este é um projeto desenvolvido com React e Tailwind CSS, que apresenta frases icônicas do famoso rapper americano Kanye West.
